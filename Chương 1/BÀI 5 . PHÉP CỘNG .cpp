@@ -17,4 +17,4 @@ int main()
 		solve(s) ; 
 	}
 }
-// do phuc tap thuat toan : O(1) 
+
