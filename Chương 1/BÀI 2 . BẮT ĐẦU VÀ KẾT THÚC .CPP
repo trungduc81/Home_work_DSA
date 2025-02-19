@@ -19,4 +19,4 @@ int main()
 		solve(a) ; 
 	}
 }
-// do phuc tap thuat toan : O(log n ) do su dung ham to_string 
+// do phuc tap thuat toan : O(t * log n ) do su dung ham to_string 
