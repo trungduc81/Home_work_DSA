@@ -25,5 +25,3 @@ int main() {
         solve(s) ; 
     }
 }
-// do phuc tap O(n) 
-// do phuc tap 
