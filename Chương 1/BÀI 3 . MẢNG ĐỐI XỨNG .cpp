@@ -28,4 +28,4 @@ int main()
 		else cout << "NO" << endl ; 
 	}
 }
-// do phuc tap thuat toan : O(n) do duyet qua n/2 mang
+
