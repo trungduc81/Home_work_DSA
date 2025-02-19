@@ -19,4 +19,4 @@ int main()
 	}
 }
 
-// do phuc tap thuat toan : O(log min(a,b)) do ham __gcd su dung thuat toan Euclid 
+// do phuc tap thuat toan : O(t * log min(a,b)) do ham __gcd su dung thuat toan Euclid 
