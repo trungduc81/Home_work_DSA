@@ -18,3 +18,5 @@ int main()
 		solve(a,b) ; 
 	}
 }
+
+// do phuc tap thuat toan : O(log min(a,b)) do ham __gcd su dung thuat toan Euclid 
