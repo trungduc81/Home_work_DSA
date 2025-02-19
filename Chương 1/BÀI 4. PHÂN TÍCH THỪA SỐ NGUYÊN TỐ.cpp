@@ -32,4 +32,4 @@ int main() {
         test_case++;
     }
 }
-// do phuc tap thuat toan : O(sqrt(n)) 
+
