@@ -29,4 +29,4 @@ int main() {
             cout << "NO" << endl;
     }
 }
-// do phuc tap O(n) 
+ 
